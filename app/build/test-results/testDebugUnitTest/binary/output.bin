@@ -1,0 +1,19 @@
++79179711111
+1First init block, primary constructor was called
++79179711111
+Secondary phone constructor
+ Salt while encrypt: [B@475c9c31
+7Phone passwordHash is c4c82a817efe6eaf4a67601f116f25ea
+8..... sending access code: U16Csb on +7 (917) 971-11-11
+ Salt while encrypt: [B@475c9c31
+7Phone passwordHash is c37fa06a075bd3fa38b043c24729a00a
+firstName: John
+lastName: Doe
+login: +79179711111
+fullName: John Doe
+initials: J D
+email: null
+phone: +79179711111
+meta: {auth=sms}
+ Salt while encrypt: [B@475c9c31
+:Checking passwordHash is c37fa06a075bd3fa38b043c24729a00a
