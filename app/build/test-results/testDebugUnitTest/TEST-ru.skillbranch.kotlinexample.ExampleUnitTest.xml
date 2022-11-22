@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.skillbranch.kotlinexample.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-19T16:03:59" hostname="MacBook-Air-Dmitrij.local" time="0.042">
+  <properties/>
+  <testcase name="request_access_code" classname="ru.skillbranch.kotlinexample.ExampleUnitTest" time="0.042"/>
+  <system-out><![CDATA[+79179711111
+First init block, primary constructor was called
++79179711111
+Secondary phone constructor
+Salt while encrypt: [B@475c9c31
+Phone passwordHash is c4c82a817efe6eaf4a67601f116f25ea
+..... sending access code: U16Csb on +7 (917) 971-11-11
+Salt while encrypt: [B@475c9c31
+Phone passwordHash is c37fa06a075bd3fa38b043c24729a00a
+firstName: John
+lastName: Doe
+login: +79179711111
+fullName: John Doe
+initials: J D
+email: null
+phone: +79179711111
+meta: {auth=sms}
+Salt while encrypt: [B@475c9c31
+Checking passwordHash is c37fa06a075bd3fa38b043c24729a00a
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
